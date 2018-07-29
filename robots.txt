@@ -1,0 +1,28 @@
+
+User-agent: *
+
+
+Allow:http://infinityschool.in/index.html/
+Allow:http://infinityschool.in/about-us.html/
+Allow:http://infinityschool.in/certification.html/
+Allow:http://infinityschool.in/modules.html/
+Allow:http://infinityschool.in/contact-us.php/
+Allow:http://infinityschool.in/faqs.html/
+Allow:http://infinityschool.in/privacy&terms.html/
+
+Allow:/
+
+Disallow: /ajax.googleapis.com/
+
+Disallow: /bonus-material/
+
+Disallow: /f2f/
+
+Disallow: /modules/
+
+Disallow: /Share URL provided must be valid with preceeding http_/
+
+Disallow: /topic/
+
+
+Sitemap: http://infinityschool.in/sitemap.xml

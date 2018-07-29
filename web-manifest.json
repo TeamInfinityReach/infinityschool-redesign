@@ -1,0 +1,51 @@
+{
+    "lang": "en-GB",
+    "name": "Digital Garage",
+    "short_name": "DG",
+    "start_url": "/?utm_source=web_app_manifest",
+    "display": "standalone",
+    "orientation": "any",
+    "background_color": "#FFFFFF",
+    "theme_color": "#00BFA5",
+    
+        "prefer_related_applications": true,
+        "related_applications": [
+            {
+                "platform": "play",
+                "id": "com.google.android.apps.growthengine"
+            }
+        ],
+    
+    "icons": [
+        {
+            "src": "/modules/portal/static/cms/img/defaults/common/web_man_icon_128_image_url.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "/modules/portal/static/cms/img/defaults/common/web_man_icon_144_image_url.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/modules/portal/static/cms/img/defaults/common/web_man_icon_152_image_url.png",
+            "type": "image/png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "/modules/portal/static/cms/img/defaults/common/web_man_icon_192_image_url.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/modules/portal/static/cms/img/defaults/common/web_man_icon_256_image_url.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "/modules/portal/static/cms/img/defaults/common/web_man_icon_512_image_url.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
